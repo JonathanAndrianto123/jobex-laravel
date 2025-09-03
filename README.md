@@ -60,28 +60,23 @@ Beberapa route penting:
    ```bash
    git clone https://github.com/username/jobex-laravel.git
    cd jobex-laravel
-Install dependencies:
 
-bash
-Salin kode
-composer install
-npm install && npm run dev
-Copy .env.example jadi .env lalu sesuaikan database.
+2. Install dependencies:
+    ```bash
+    composer install
+    npm install && npm run dev
+    Copy .env.example jadi .env lalu sesuaikan database.
 
-Generate key:
+3. Generate key:
+    ```bash
+    php artisan key:generate
 
-bash
-Salin kode
-php artisan key:generate
-Migrasi database:
+4. Migrasi database:
+    ```bash
+    php artisan migrate --seed
 
-bash
-Salin kode
-php artisan migrate --seed
-Jalankan server:
-
-bash
-Salin kode
-php artisan serve
-✨ Kontributor
+5. Jalankan server:
+    ```bash
+    php artisan serve
+###✨ Kontributor
 Jonathan Satriani Gracio Andrianto (Developer)
