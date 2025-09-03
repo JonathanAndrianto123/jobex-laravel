@@ -78,5 +78,5 @@ Beberapa route penting:
 5. Jalankan server:
     ```bash
     php artisan serve
-###✨ Kontributor
+### ✨ Kontributor
 Jonathan Satriani Gracio Andrianto (Developer)
