@@ -53,7 +53,8 @@ Beberapa route penting:
 ⚠️ Project masih dalam tahap pengembangan (in-progress).
 
 ## 📷 Screenshot (Opsional)
-(https://github.com/JonathanAndrianto123/jobex-laravel/issues/1)
+![Screenshot Login Page]<img width="1299" height="573" alt="image" src="https://github.com/user-attachments/assets/c981f5d4-4f1a-4b8f-abfd-132dde006987" />
+
 
 ## 💡 Cara Menjalankan
 1. Clone repo ini:
