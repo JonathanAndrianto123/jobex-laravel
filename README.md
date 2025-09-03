@@ -53,7 +53,7 @@ Beberapa route penting:
 ⚠️ Project masih dalam tahap pengembangan (in-progress).
 
 ## 📷 Screenshot (Opsional)
-*(tambahkan screenshot aplikasi di sini setelah ada UI jalan)*
+(https://github.com/JonathanAndrianto123/jobex-laravel/issues/1)
 
 ## 💡 Cara Menjalankan
 1. Clone repo ini:
